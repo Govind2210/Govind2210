@@ -1,4 +1,4 @@
-Hi 👋 My name is Govind Lowanshi
+Hi 👋 My name is Govind Lovanshi
 ================================
 
 Data Analyst / Data Scientics
