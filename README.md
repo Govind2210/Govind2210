@@ -1,7 +1,7 @@
 Hi 👋 My name is Govind Lovanshi
 ================================
 
-Data Analyst / Data Scientics
+Full Stack Web Developer / Data Scientics
 -----------------------------
 
 An independent and self-motivated student with proven ability and experienced in data science projects with data structure and machine learning algorithm. Recognized by professors ,colleagues, and peers as a personable ,dedicated performer who demonstrates innovation ,communication and teamwork to ensure quality, timely project completion.
