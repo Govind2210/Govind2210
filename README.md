@@ -4,7 +4,7 @@ Hi 👋 My name is Govind Lovanshi
 Full Stack Web Developer 
 -----------------------------
 
-An independent and self-motivated student with proven ability and experienced in data science projects with data structure and machine learning algorithm. Recognized by professors ,colleagues, and peers as a personable ,dedicated performer who demonstrates innovation ,communication and teamwork to ensure quality, timely project completion.
+An independent and self-motivated student with proven ability and experienced in Web Developer projects with data structure . Recognized by professors ,colleagues, and peers as a personable ,dedicated performer who demonstrates innovation ,communication and teamwork to ensure quality, timely project completion.
 
 * 🌍  I'm based in Pune , India
 * ✉️  You can contact me at [govind.lowanshi28@gmail.com](mailto:govind.lowanshi28@gmail.com)
